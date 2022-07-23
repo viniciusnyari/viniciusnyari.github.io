@@ -1,2 +1,1 @@
-# Portfólio Vinícius Nyari
-https://viniciusnyari.github.io/
+viniciusnyari.github.io
